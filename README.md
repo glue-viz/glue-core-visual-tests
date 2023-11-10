@@ -1,0 +1,1 @@
+# glue-core-visual-tests
